@@ -1,0 +1,6 @@
+name: aqChangeBlocks
+version: ${project.version}
+main: com.adamuseq.aqchangeblocks.Main
+authors: [ Adamuseq ]
+description: Plugin na wymiane surowców na bloki.
+website: www.adamuseq.com
